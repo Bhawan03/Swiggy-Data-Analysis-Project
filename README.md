@@ -1,4 +1,4 @@
-# Swiggy-Data-Analysis-Project
+# Pan-India Swiggy Food Menu Analytics: A Data-Driven Study
 This project analyzes real Swiggy menu and rating data across major Indian cities to understand pricing trends, customer preferences, restaurant performance, and category popularity. Using Python (Pandas, Seaborn, Matplotlib), the analysis compares food categories, price variations, rating consistency, and the performance of top restaurant chains like McDonald’s, KFC, Domino’s, and local brands.
 
 The study highlights premium vs. budget market segments, identifies high-engagement food categories such as Burgers, Hot & Crispy items, and Main Course meals, and explains how specialized menus lead to higher ratings. Based on these findings, the project provides data-backed recommendations to help restaurants and Swiggy improve customer satisfaction, engagement, and revenue.
